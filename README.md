@@ -3,7 +3,9 @@ AI-powered claim verification assistant built with Perplexity Comet
 
 🚀 ClaimStrength – AI-Powered Claim Verification Assistant
 Built for the Build with Perplexity Comet Hackathon (2025)
+
 👩‍💻 Solo Project by Chandana R
+
 📌 Overview
 
 ClaimStrength is an AI-powered assistant that extracts claims, checks evidence, verifies truthfulness, and strengthens academic writing — in under 30 seconds.
@@ -11,6 +13,7 @@ ClaimStrength is an AI-powered assistant that extracts claims, checks evidence, 
 Powered by Perplexity Comet’s agentic browsing, it transforms academic writing by automatically validating statements using high-quality sources, detecting contradictions, and generating rewritten, citation-ready claims.
 
 ✨ Key Features
+
 🔍 Claim Extraction
 
 Identifies 5–8 factual or argumentative statements from any essay or PDF.
