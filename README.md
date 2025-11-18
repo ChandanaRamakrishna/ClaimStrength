@@ -51,7 +51,7 @@ Displays evidence distribution, contradictions, and confidence scores.
 ✔️ Designed for students, teachers, and researchers
 ✔️ Ensures academic integrity and reduces misinformation
 
-🏗️ System Architecture (Point-Wise)
+🏗️ System Architecture 
 
 1.User Input Layer
 
@@ -127,29 +127,29 @@ Visualization PNGs
 
 🛠️ Built With
 
-Perplexity Comet (agentic search + evidence retrieval)
+1.Perplexity Comet (agentic search + evidence retrieval)
 
-Python
+2.Python
 
-Flask (prototype backend)
+3.Flask (prototype backend)
 
-Mermaid.js (visualizations)
+4.Mermaid.js (visualizations)
 
-Canva / PowerPoint (presentation assets)
+5.Canva / PowerPoint (presentation assets)
 
-GitHub (version control)
+6.GitHub (version control)
 
 🔮 Future Improvements
 
-Real-time browser extension for claim verification
+1.Real-time browser extension for claim verification
 
-Multi-language support
+2.Multi-language support
 
-Generate full bibliography
+3.Generate full bibliography
 
-Google Docs plugin
+4.Google Docs plugin
 
-Live contradiction heatmaps
+5.Live contradiction heatmaps
 
 🙌 Acknowledgements
 
